@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T07:07:37.595Z" agent="5.0 (Macintosh)" etag="XHlVbLG0EK1-RPY9-Msi" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-15T07:50:50.190Z" agent="5.0 (Macintosh)" etag="HVfwIsHriJ4qWTmp4Dtn" version="20.5.3" type="github">
   <diagram id="F_eXqOusW_tx_BdzpR09" name="Страница 1">
-    <mxGraphModel dx="3633" dy="1983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4623" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,12 +373,12 @@
         </mxCell>
         <UserObject label="Сводная по области ALEM / Рынок || Сводная по региону || Сводная по клиенту " lucidchartObjectId="YTy8HSQ7_ECe" id="bg8Pyg_J-tRumf_r9kGJ-60">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=document;boundedLbl=1;fontSize=16.7;spacing=3.8;strokeColor=#0e8088;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;fillColor=#b0e3e6;" parent="1" vertex="1">
-            <mxGeometry x="1540" y="413" width="330" height="135" as="geometry" />
+            <mxGeometry x="1550" y="400.5" width="330" height="135" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Формы Аналитики" lucidchartObjectId="CVy8dREk-2AG" id="bg8Pyg_J-tRumf_r9kGJ-61">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=30;fontColor=#3a414a;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="1" vertex="1">
-            <mxGeometry x="1730" y="158" width="465" height="62" as="geometry" />
+            <mxGeometry x="1660" y="158" width="465" height="62" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="9Wy8M01.g.eg" id="bg8Pyg_J-tRumf_r9kGJ-62">
