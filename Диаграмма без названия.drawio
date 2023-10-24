@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T08:28:46.438Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" etag="oOex59oZzk2SjOkiqhn_" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T09:03:05.235Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/118.0" etag="7VkRiMQkzy3opKM4IvBW" version="21.8.0" type="github">
   <diagram id="F_eXqOusW_tx_BdzpR09" name="Страница 1">
     <mxGraphModel dx="3470" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1464,6 +1464,11 @@
         <mxCell id="c86TaRzB3xGsF6ts3SuT-88" value="&lt;div&gt;Return Visit Client profile&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c86TaRzB3xGsF6ts3SuT-87">
           <mxGeometry x="-0.6365" y="-1" relative="1" as="geometry">
             <mxPoint x="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c86TaRzB3xGsF6ts3SuT-122" value="&lt;div&gt;Change status&lt;/div&gt;&lt;div&gt;Visit&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="c86TaRzB3xGsF6ts3SuT-87">
+          <mxGeometry x="-0.0489" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c86TaRzB3xGsF6ts3SuT-85" value="Fiixed survey answer" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
